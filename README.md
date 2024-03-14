@@ -1,0 +1,1 @@
+Electoral Bond data from the Election Commission Of India was uploaded in PDF format which is hard to work with so I ended up turning it into easy to work with: https://github.com/kubre/Electoral-Bond-Data-14-Mar-CSV
